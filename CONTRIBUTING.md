@@ -4,15 +4,15 @@
 
 These are a set of guidelines for contributing to the open source projects.
 
-## Table of Contents
+### Table of Contents
 
-- Reporting A Bug
-- Submitting A Fix
-- Style Guide
-- License
-- Code of Conduct
-- Contact
-  
+  - [Reporting A Bug](#reporting-a-bug)
+  - [Submitting A Fix](#submitting-a-fix)
+  - [Style Guide](#style-guide)
+  - [License](#license)
+  - [Code of Conduct](#code-of-conduct)
+  - [Contact](#contact)
+ 
 ## Reporting A Bug 
 
 Open a new issue on the repository to report a bug.
