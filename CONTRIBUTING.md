@@ -45,11 +45,11 @@ All open source projects under the d3vkk Github account and everyone participati
 
 ## Contact
 
-[DM me directly on Twitter](https://twitter.com/amdonaldk) to:
+[DM me on Twitter](https://twitter.com/amdonaldk) to:
 
 - Discuss the current state of the code of a repository
 - Propose new features on a repository
 - Become a maintainer on a repository
-- Ask a question
-- Report unacceptable behaviour
+- Report unacceptable behaviour on a repository
 - Invite me to collaborate on a project
+- Ask a question
